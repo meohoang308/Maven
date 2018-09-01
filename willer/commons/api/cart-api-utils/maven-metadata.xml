@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>willer.commons.api</groupId>
+  <artifactId>cart-api-utils</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180901144142</lastUpdated>
+  </versioning>
+</metadata>
